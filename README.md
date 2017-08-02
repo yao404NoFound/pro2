@@ -1,5 +1,5 @@
 # NetEase-Cloud-Music
-![example.png](http://pan.baidu.com/s/1jIR3VO6)
+![example.png](https://github.com/Dexinser/NetEase-Cloud-Music/blob/master/img/example.png)
 Web Music
 # This is a h5 netease musicplayer.
 #function:
